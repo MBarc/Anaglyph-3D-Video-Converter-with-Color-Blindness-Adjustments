@@ -55,7 +55,7 @@ FFmpeg is required for merging the audio from the original video into the output
 Install FFmpeg from ffmpeg.org or using a package manager:
 - On macOS: brew install ffmpeg
 - On Ubuntu/Debian: sudo apt install ffmpeg
-- On Windows: Download the executable and add it to your system's PATH.
+- On Windows: [Download](https://www.ffmpeg.org/download.html) the executable and add it to your system's PATH.
 
 ## System Requirements
 - A computer with sufficient memory and processing power to handle video processing.
