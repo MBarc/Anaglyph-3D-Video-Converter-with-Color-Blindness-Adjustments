@@ -86,6 +86,11 @@ This script processes a video file to create an anaglyph 3D movie, with optional
 
 This process ensures the output video maintains the original audio and provides a visually optimized 3D effect tailored to the viewer’s needs.
 
+# How To Use
+1. Put your .mp4 file in the same directory as the script.
+2. Change the name of the file to be "input_video.mp4".
+3. Run the script. 
+
 # License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this software in accordance with the terms of the license.
