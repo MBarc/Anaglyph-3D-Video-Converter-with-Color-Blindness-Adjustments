@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Project Logo" width="200"/>
+  <img src="logo.png" alt="Project Logo" width="300"/>
 </p>
 
 <h1 align="center">Anaglyph 3D Video Converter with Color Blindness Adjustments</h1>
