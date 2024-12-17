@@ -142,7 +142,7 @@ def convert_to_anaglyph_with_colorblindness(video_path, colorblindness_type="sta
             os.remove(output_path)
 
 # Example usage
-input_video = "test_video.mp4"  # Replace with your input video file path
+input_video = "input_video.mp4"  # Replace with your input video file path
 
 # Modify the colorblindness_type parameter for different modes
 colorblindness_type = "deuteranopia"  # Choose from "standard", "protanopia", "deuteranopia", "tritanopia"
