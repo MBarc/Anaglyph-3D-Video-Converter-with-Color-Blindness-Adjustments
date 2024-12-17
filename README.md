@@ -1,6 +1,15 @@
 # Anaglyph 3D Video Converter with Color Blindness Adjustments
 This Python script converts a video into an **anaglyph 3D movie** while offering adjustments for different types of color blindness. It also retains the original audio in the output video using FFmpeg.
 
+## Table of Contents
+
+1. [Description](#description)  
+2. [Features](#features)  
+3. [Requirements](#requirements)  
+4. [How It Works](#how-it-works)  
+5. [License](#license)  
+
+
 # Description
 This project is a Python-based Anaglyph 3D Video Converter designed to create 3D movies with support for color blindness adjustments. It processes a video file frame-by-frame to generate a stereoscopic effect by creating separate perspectives for the left and right eyes.
 
