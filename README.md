@@ -89,7 +89,8 @@ This process ensures the output video maintains the original audio and provides 
 # How To Use
 1. Put your .mp4 file in the same directory as the script.
 2. Change the name of the file to be "input_video.mp4".
-3. Run the script. 
+   - Optionally, you could instead change the value of the "input_video" variable to match the name of your .mp4 file.
+4. Run the script. 
 
 # License
 This project is licensed under the MIT License.
