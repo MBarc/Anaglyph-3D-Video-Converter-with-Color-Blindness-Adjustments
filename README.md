@@ -49,7 +49,7 @@ Install FFmpeg from ffmpeg.org or using a package manager:
 - A computer with sufficient memory and processing power to handle video processing.
 - Compatible operating systems: Windows, macOS, or Linux.
 
-#How It Works
+# How It Works
 This script processes a video file to create an anaglyph 3D movie, with optional adjustments for different types of color blindness. Here’s a step-by-step breakdown:
 1. Video Input:
   - The script reads the input video frame-by-frame using OpenCV.
