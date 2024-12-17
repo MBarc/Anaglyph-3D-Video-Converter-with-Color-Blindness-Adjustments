@@ -26,7 +26,7 @@ The output video includes the original audio track, achieved by seamlessly mergi
 # Features
 - Anaglyph 3D Conversion: Transforms videos into stereoscopic 3D format by creating left and right eye perspectives.
 - Color Blindness Support: Provides tailored adjustments for:
-  - Normal vision
+  - Standard vision
   - Protanopia (red-blind)
   - Deuteranopia (green-blind)
   - Tritanopia (blue-blind)
