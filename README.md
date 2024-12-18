@@ -16,7 +16,7 @@
 # Description
 This project is a Python-based Anaglyph 3D Video Converter designed to create 3D movies with support for color blindness adjustments. It processes a video file frame-by-frame to generate a stereoscopic effect by creating separate perspectives for the left and right eyes.
 
-In addition to standard 3D effects for normal vision, the converter provides tailored adjustments for different types of color blindness:
+In addition to standard 3D effects for standard vision, the converter provides tailored adjustments for different types of color blindness:
 - Protanopia (red-blind)
 - Deuteranopia (green-blind)
 - Tritanopia (blue-blind)
